@@ -1,0 +1,3 @@
+/Users/mgalazka/dev/cpp_practice/template_multithread/build/CMakeFiles/TemplateMultithread.dir
+/Users/mgalazka/dev/cpp_practice/template_multithread/build/CMakeFiles/edit_cache.dir
+/Users/mgalazka/dev/cpp_practice/template_multithread/build/CMakeFiles/rebuild_cache.dir
